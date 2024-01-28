@@ -31,7 +31,7 @@
 
 <body>
 
-  <h1>HJimDev vs Python4All</h1>
+  <h1>HJimDev / Python4All</h1>
 
   <div class="circle-container">
     <div class="round-image">
