@@ -1,7 +1,7 @@
 # import libraries
 import pandas as pd
 
-# read dataset
+# read dataset (don't forget to unzip the file)
 people = pd.read_csv('datasets/people.csv')
 
 # select the first 4 columns
