@@ -152,4 +152,4 @@ cython_debug/
 #.idea/
 
 # Extra
-challengers/python4all/challenge-day-02/datasets/people.csv
+challengers/python4all/datasets/people.csv
