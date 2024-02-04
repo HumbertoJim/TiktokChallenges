@@ -153,3 +153,4 @@ cython_debug/
 
 # Extra
 challengers/python4all/datasets/people.csv
+challengers/python4all/datasets/cars.csv
